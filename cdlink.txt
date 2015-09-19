@@ -1,0 +1,7 @@
+binary hello.bin
+name simplebattle
+maker gameblabla
+makerid ca
+date 20150914
+country 1
+version 256
