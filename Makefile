@@ -5,4 +5,4 @@ BIN_TARGET     = hello.bin
 ADD_FILES      = 
 CDOUT          = hello_cd
 
-include ../example.mk
+include ./example.mk
